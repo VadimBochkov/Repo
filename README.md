@@ -2,4 +2,4 @@ Hi world!
 Hi Hi!
 Hi bro!
 
-fix-2 changes
+Go fix-2 in fix-1
